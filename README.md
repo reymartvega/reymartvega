@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reymart Vega</h1>
-<h4 align="center">Hi there! 👋 I'm [Your Name], a MERN stack junior developer with a passion for building web applications. I love working with the latest technologies and tools to create dynamic, responsive, and user-friendly websites.</h4>
+<h4 align="center">a MERN stack junior developer with a passion for building web applications. I love working with the latest technologies and tools to create dynamic, responsive, and user-friendly websites.</h4>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **Chat App**
