@@ -1,3 +1,4 @@
+<img  alt="coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif">
 <h1 align="center">Hi 👋, I'm Reymart Vega</h1>
 <h4 align="center">a MERN stack junior developer with a passion for building web applications. I love working with the latest technologies and tools to create dynamic, responsive, and user-friendly websites.</h4>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
