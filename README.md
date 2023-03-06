@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reymart Vega</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
 
 - 🔭 I’m currently working on **Chat App**
 
